@@ -1,4 +1,9 @@
 {
+  "metro": "subte",
+  "cerveza": "birra",
+  "cervezas": "birras",
+  "barbacoa": "asado",
+  "postre": "factura"
   "plata": "guita",
   "laburar": "trabajar",
   "bondi": "colectivo",
