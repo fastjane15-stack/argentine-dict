@@ -3,6 +3,7 @@
     "amigo": "amigo",
     "cuenta": "cuentita",
     "persona": "gente",
+    "dinero": "guita",
     "dinero extra": "unos mangos más",
     "rápido": "al toque",
     "ahora mismo": "ya",
@@ -88,6 +89,9 @@
 
   "phrases": {
     "muchas gracias": "gracias",
+    "puedes revisarlo ahora": "fijate ahora",
+    "puedes revisarlo": "fijate",
+    "revisarlo ahora": "verlo ahora",
     "gracias por su ayuda": "gracias por la mano",
     "todo está correcto": "todo bien",
     "todo está bien": "todo bien",
