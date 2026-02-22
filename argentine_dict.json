@@ -1,4 +1,8 @@
 {
+  "version": "2.0",
+  "locale": "es-AR",
+  "description": "Online Rioplatense lexical layer (conflict-safe)",
+
   "words": {
     "persona": "gente",
     "personas": "gente",
@@ -14,42 +18,56 @@
     "perfecto": "de diez",
     "excelente": "de diez",
     "muy": "re",
+
     "ayudar": "dar una mano",
     "intentar": "probar",
     "empezar": "arrancar",
     "terminar": "cerrar",
-    "continuar": "seguir",
     "funcionar": "andar",
     "fallar": "no andar",
     "realizar": "hacer",
     "efectuar": "hacer",
     "generar": "armar",
     "crear": "armar",
-    "mensaje": "mensaje",
-    "respuesta": "respuesta",
+
     "equipo": "la banda",
     "grupo": "la banda",
     "evento": "movida",
     "actividad": "movida",
     "proceso": "movida",
+
     "beneficio": "ventaja",
     "resultado": "cómo salió",
     "objetivo": "idea",
     "detalle": "dato",
+
     "información": "data",
     "adicional": "extra",
-    "verificar": "chequear",
-    "comprobar": "chequear",
+
     "demorar": "tardar",
     "aumentar": "subir",
     "reducir": "bajar",
+
     "opción": "forma",
     "importante": "clave",
     "urgente": "ya",
     "disponible": "hay",
     "ocupado": "a full",
-    "cliente": "cliente",
-    "usuarios": "gente"
+
+    /* 金融语境补充 */
+    "capital": "guita",
+    "fondos": "guita",
+    "monto": "plata",
+    "rentabilidad": "ganancia",
+    "rendimiento": "ganancia",
+    "utilidades": "ganancia",
+    "invertir": "poner",
+    "inversión": "lo que pusiste",
+    "retirar": "sacar",
+    "depositar": "poner",
+    "transferir": "mandar",
+    "operación": "movimiento",
+    "transacción": "movimiento"
   },
 
   "phrases": {
@@ -59,29 +77,19 @@
     "dinero recibido": "la guita que cobraste",
     "dinero ganado": "la guita que hiciste",
 
-    "puedes revisarlo ahora": "Fijate ahora",
-    "puedes revisarlo": "Fijate",
-    "puede revisarlo": "Fijate",
-    "revisarlo ahora": "Verlo ahora",
-
     "muchas gracias": "gracias",
     "gracias por su ayuda": "gracias por la mano",
+
     "todo está correcto": "todo bien",
     "todo está bien": "todo bien",
     "sin inconvenientes": "todo bien",
 
     "de acuerdo entonces": "dale entonces",
     "está confirmado": "ya está",
-    "ha sido aprobado": "ya pasó",
     "queda confirmado": "listo",
     "queda registrado": "ya quedó",
 
     "no se preocupe": "tranqui",
-    "puede continuar": "seguí",
-    "puede avanzar": "seguí",
-
-    "lo revisamos": "lo vemos",
-    "lo estamos viendo": "lo vemos",
 
     "ya fue enviado": "ya se mandó",
     "ha finalizado": "ya terminó",
@@ -99,13 +107,9 @@
     "está funcionando": "anda",
     "no está funcionando": "no anda",
 
-    "intente nuevamente": "probá otra vez",
-    "vuelva a intentar": "probá de nuevo",
-
     "es necesario": "hace falta",
     "no es necesario": "no hace falta",
 
-    "estamos en contacto": "seguimos en contacto",
-    "avísame cualquier cosa": "avisame cualquier cosa"
+    "estamos en contacto": "seguimos en contacto"
   }
 }
