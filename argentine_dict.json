@@ -20,10 +20,9 @@
     "muy": "re",
 
     "procesado": "listo",
-"consultar": "ver",
-"registros": "movimientos",
-"problema": "quilombo",
-    
+    "consultar": "ver",
+    "registros": "movimientos",
+
     "ayudar": "dar una mano",
     "intentar": "probar",
     "empezar": "arrancar",
@@ -59,7 +58,6 @@
     "disponible": "hay",
     "ocupado": "a full",
 
-    /* 金融语境补充 */
     "capital": "guita",
     "fondos": "guita",
     "monto": "plata",
@@ -81,18 +79,18 @@
     "recibir dinero": "cobrar",
     "dinero recibido": "la guita que cobraste",
     "dinero ganado": "la guita que hiciste",
-    
-"se ha procesado": "ya está",
-"ha sido procesado": "ya está",
-"puede consultar": "podés ver",
-"consultar los registros": "ver los movimientos",
-"registros de su cuenta": "los movimientos",
-"por favor": "",
-"si hay algún problema": "si hay algún quilombo",
-"avíseme": "avisame",
-"puede consultar los registros de su cuenta": "podés ver los movimientos",
-"ya puede consultar": "ya podés ver",
-    
+
+    "se ha procesado": "ya está",
+    "ha sido procesado": "ya está",
+    "puede consultar": "podés ver",
+    "consultar los registros": "ver los movimientos",
+    "registros de su cuenta": "los movimientos",
+    "por favor": "",
+    "si hay algún problema": "si hay algún quilombo",
+    "avíseme": "avisame",
+    "puede consultar los registros de su cuenta": "podés ver los movimientos",
+    "ya puede consultar": "ya podés ver",
+
     "muchas gracias": "gracias",
     "gracias por su ayuda": "gracias por la mano",
 
