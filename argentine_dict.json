@@ -1,5 +1,5 @@
 {
-  "version": "1.0",
+  "version": "2.0",
 
   "hard_lock": {
     "早上好": "Buen día",
@@ -43,7 +43,13 @@
     "le pedimos que": "",
     "por favor confirme": "confirmame",
     "gracias por su paciencia": "gracias por la onda",
-    "en breve nos contactaremos": "en un rato te escribo"
+    "en breve nos contactaremos": "en un rato te escribo",
+
+    "hemos recibido su pago": "ya entró la guita",
+    "su depósito fue confirmado": "ya quedó acreditado",
+    "ha sido completado": "ya está listo",
+    "se ha unido un nuevo miembro": "se sumó uno nuevo",
+    "recibirá una recompensa": "te llevás una diferencia"
   },
 
   "voseo_force": {
@@ -60,6 +66,29 @@
     "muy bien": "de diez",
     "de acuerdo": "dale",
     "está bien": "todo bien"
+  },
+
+  "regex_layers": {
+    "strip_formal": [
+      { "pattern": "estimado.*?,?", "replace": "" },
+      { "pattern": "le informamos que", "replace": "" },
+      { "pattern": "por favor", "replace": "" },
+      { "pattern": "a la brevedad", "replace": "" },
+      { "pattern": "se le solicita", "replace": "" }
+    ],
+
+    "compress": [
+      { "pattern": "usted puede", "replace": "podés" },
+      { "pattern": "es necesario que", "replace": "" },
+      { "pattern": "para poder", "replace": "para" },
+      { "pattern": "con el fin de", "replace": "para" }
+    ],
+
+    "cleanup": [
+      { "pattern": "\\s{2,}", "replace": " " },
+      { "pattern": "\\s+,", "replace": "," },
+      { "pattern": "\\s+\\.", "replace": "." }
+    ]
   },
 
   "strip_symbols": true
