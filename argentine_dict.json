@@ -1,12 +1,6 @@
 {
   "version": "2.2",
 
-  "phrases": {
-    "tener un buen fin de semana": "Buen finde",
-    "que tenga un buen fin de semana": "Buen finde",
-    "le deseo un buen fin de semana": "Buen finde"
-  },
-
   "hard_lock": {
     "早上好": "Buen día",
     "下午好": "Buenas",
@@ -16,8 +10,7 @@
     "好的": "Dale",
     "好的，没问题": "Dale, todo bien",
     "你好": "Hola"
-  }
-}
+  },
 
   "formal_kill": [
     "estimado",
@@ -43,9 +36,10 @@
   },
 
   "phrases": {
-      "tener un buen fin de semana": "Buen finde",
-  "que tenga un buen fin de semana": "Buen finde",
-  "le deseo un buen fin de semana": "Buen finde",
+    "tener un buen fin de semana": "Buen finde",
+    "que tenga un buen fin de semana": "Buen finde",
+    "le deseo un buen fin de semana": "Buen finde",
+
     "ha sido acreditado": "ya te entró",
     "se ha realizado": "ya está hecho",
     "puede verificar": "podés ver",
