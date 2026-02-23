@@ -1,11 +1,6 @@
 {
-  "version": "2.3",
+  "version": "2.4",
 
-  "post_fix": {
-    "tener un buen fin de semana": "Buen finde",
-    "que tenga un buen fin de semana": "Buen finde",
-    "le deseo un buen fin de semana": "Buen finde"
-  },
 
   "hard_lock": {
     "早上好": "Buen día",
@@ -42,6 +37,9 @@
   },
 
   "phrases": {
+      "tener un buen fin de semana": "Buen finde",
+  "que tenga un buen fin de semana": "Buen finde",
+  "le deseo un buen fin de semana": "Buen finde",
     "ha sido acreditado": "ya te entró",
     "se ha realizado": "ya está hecho",
     "puede verificar": "podés ver",
