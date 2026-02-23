@@ -1,131 +1,66 @@
 {
-  "version": "2.2",
-  "locale": "es-AR",
-  "description": "Online Rioplatense lexical layer (conflict-safe)",
+  "version": "1.0",
+
+  "hard_lock": {
+    "早上好": "Buen día",
+    "下午好": "Buenas",
+    "晚上好": "Buenas",
+    "周末愉快": "Buen finde",
+    "谢谢": "Gracias",
+    "好的": "Dale",
+    "好的，没问题": "Dale, todo bien",
+    "你好": "Hola"
+  },
+
+  "formal_kill": [
+    "estimado",
+    "le informamos",
+    "le solicitamos",
+    "a la brevedad",
+    "por este medio",
+    "cordialmente",
+    "atentamente"
+  ],
 
   "words": {
-    "persona": "gente",
-    "personas": "gente",
-    "problema": "quilombo",
-    "situación": "tema",
-    "cosa": "tema",
-    "cosas": "temas",
-    "cantidad": "bocha",
-    "mucho": "una banda",
-    "poco": "un toque",
-    "rápido": "al toque",
-    "enseguida": "al toque",
-    "perfecto": "de diez",
-    "excelente": "de diez",
-    "muy": "re",
-
-    "procesado": "listo",
-    "consultar": "ver",
-    "registros": "movimientos",
-
-    "ayudar": "dar una mano",
-    "intentar": "probar",
-    "empezar": "arrancar",
-    "terminar": "cerrar",
-    "funcionar": "andar",
-    "fallar": "no andar",
-    "realizar": "hacer",
-    "efectuar": "hacer",
-    "generar": "armar",
-    "crear": "armar",
-
-    "equipo": "la banda",
-    "grupo": "la banda",
-    "evento": "movida",
-    "actividad": "movida",
-    "proceso": "movida",
-
-    "beneficio": "ventaja",
-    "resultado": "cómo salió",
-    "objetivo": "idea",
-    "detalle": "dato",
-
-    "información": "data",
-    "adicional": "extra",
-
-    "demorar": "tardar",
-    "aumentar": "subir",
-    "reducir": "bajar",
-
-    "opción": "forma",
-    "importante": "clave",
-    "urgente": "ya",
-    "disponible": "hay",
-    "ocupado": "a full",
-
-    "capital": "guita",
-    "fondos": "guita",
-    "monto": "plata",
-    "rentabilidad": "ganancia",
-    "rendimiento": "ganancia",
-    "utilidades": "ganancia",
-    "invertir": "poner",
-    "inversión": "lo que pusiste",
-    "retirar": "sacar",
-    "depositar": "poner",
-    "transferir": "mandar",
-    "operación": "movimiento",
-    "transacción": "movimiento"
+    "dinero": "guita",
+    "trabajo": "laburo",
+    "persona": "pibe",
+    "personas": "pibes",
+    "información": "info",
+    "telefono": "celu",
+    "teléfono": "celu",
+    "autobús": "bondi",
+    "empresa": "laburo",
+    "empleado": "pibe"
   },
 
   "phrases": {
-    "el dinero": "la guita",
-    "dinero extra": "unos mangos más",
-    "recibir dinero": "cobrar",
-    "dinero recibido": "la guita que cobraste",
-    "dinero ganado": "la guita que hiciste",
+    "ha sido acreditado": "ya te entró",
+    "se ha realizado": "ya está hecho",
+    "puede verificar": "podés ver",
+    "debe completar": "tenés que completar",
+    "le pedimos que": "",
+    "por favor confirme": "confirmame",
+    "gracias por su paciencia": "gracias por la onda",
+    "en breve nos contactaremos": "en un rato te escribo"
+  },
 
-    "se ha procesado": "ya está",
-    "ha sido procesado": "ya está",
-    "puede consultar": "podés ver",
-    "consultar los registros": "ver los movimientos",
-    "registros de su cuenta": "los movimientos",
-    "por favor": "",
-    "si hay algún problema": "si hay algún quilombo",
-    "avíseme": "avisame",
-    "puede consultar los registros de su cuenta": "podés ver los movimientos",
-    "ya puede consultar": "ya podés ver",
-    "han sido acreditados a su cuenta": "ya está en tu cuenta",
-    "han sido acreditados": "ya está",
-    "fueron acreditados": "ya está",
-    "muchas gracias": "gracias",
-    "gracias por su ayuda": "gracias por la mano",
+  "voseo_force": {
+    "tienes": "tenés",
+    "puedes": "podés",
+    "eres": "sos",
+    "quieres": "querés",
+    "debes": "tenés que",
+    "necesitas": "necesitás"
+  },
 
-    "todo está correcto": "todo bien",
-    "todo está bien": "todo bien",
-    "sin inconvenientes": "todo bien",
+  "chat_simplify": {
+    "perfecto": "joya",
+    "muy bien": "de diez",
+    "de acuerdo": "dale",
+    "está bien": "todo bien"
+  },
 
-    "de acuerdo entonces": "dale entonces",
-    "está confirmado": "ya está",
-    "queda confirmado": "listo",
-    "queda registrado": "ya quedó",
-
-    "no se preocupe": "tranqui",
-
-    "ya fue enviado": "ya se mandó",
-    "ha finalizado": "ya terminó",
-    "hemos terminado": "ya está",
-    "fue realizado": "ya se hizo",
-    "fue completado": "ya está",
-
-    "en este momento": "ahora",
-    "por el momento": "por ahora",
-    "más adelante": "después",
-    "en breve": "en un rato",
-    "lo antes posible": "apenas se pueda",
-
-    "no presenta problemas": "anda bien",
-    "está funcionando": "anda",
-    "no está funcionando": "no anda",
-
-    "es necesario": "hace falta",
-    "no es necesario": "no hace falta",
-
-    "estamos en contacto": "seguimos en contacto"
-  }
+  "strip_symbols": true
 }
